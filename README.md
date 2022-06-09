@@ -38,5 +38,5 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
-
+ 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) for more information.
